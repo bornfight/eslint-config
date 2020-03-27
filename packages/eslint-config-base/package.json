@@ -2,5 +2,5 @@
   "name": "@bornfight/eslint-config-base",
   "description": "Base ESLint config rules, independent of environment and frameworks.",
   "main": ".eslintrc.json",
-  "version": "0.0.0"
+  "version": "0.0.1-alpha.0"
 }
