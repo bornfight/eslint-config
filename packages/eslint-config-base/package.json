@@ -10,6 +10,7 @@
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-sonarjs": "^0.5.0"
   },
+  "homepage": "https://github.com/bornfight/eslint-config/tree/master/packages/eslint-config-base",
   "peerDependencies": {
     "typescript": "^3.8.2"
   },
