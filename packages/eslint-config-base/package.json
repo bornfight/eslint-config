@@ -2,7 +2,7 @@
   "name": "@bornfight/eslint-config-base",
   "description": "Base ESLint config rules, independent of environment and frameworks.",
   "main": ".eslintrc.json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.10.1",
     "@typescript-eslint/parser": "^3.10.1",
