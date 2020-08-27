@@ -1,6 +1,12 @@
 {
-  "extends": ["eslint:recommended", "prettier"],
-  "rules": {
-    "prettier/prettier": "error"
-  }
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["sonarjs", "@typescript-eslint", "prettier"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:sonarjs/recommended",
+    "plugin:prettier/recommended",
+    "prettier/@typescript-eslint"
+  ]
 }
